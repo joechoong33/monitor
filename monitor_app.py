@@ -80,7 +80,7 @@ def main():
         with col1:
             st.write("")
         with col2:
-            st.image('water.jpg')
+            st.image('water.JPG')
         with col3:
             st.write("")
         
@@ -89,7 +89,7 @@ def main():
         with col4:
             st.write("")
         with col5:
-            st.image('bee.jpg')
+            st.image('bee.JPG')
         with col6:
             st.write("   ")
         # st.write("Check similarity of Resume and Job Description")
